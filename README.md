@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**DANIE0812/DANIE0812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Daniel Effiom
 
-Here are some ideas to get you started:
+👋 Hi, I'm Daniel. I am a Self-taught Incoming Front-end Developer. My tech journey started with UI/UX and Product Design which I am still learning. I am on a journey to fully transition into tech because I am passionate about designing and developing experiences through tech to improve people's lives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on projects on Frontend Mentors to upskill.
+- 🌱 I’m currently learning Sass, Javascript & React.
+- 👯 I’m looking to collaborate on any frontend projects.
+- 🤔 I’m looking for help with landing my first tech job.
+- ⚡ Fun fact: I am also a UI/UX Designer.
+
 -->
+🔧 Tools I Like To Use
+- Figma
+- vscode
+- Sass
+
